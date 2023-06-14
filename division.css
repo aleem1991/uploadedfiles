@@ -1,39 +1,8 @@
-/*header{
-    background-color: rgb(255, 115, 0);
-    text-align:center;
 
-}
-section{
-    width:800px;
-    height: 700px;
-    border:3px solid rgb(255, 136, 0);
-    background-color: rgb(172, 120, 78);
-
-}
-.mainbox{
-    width: 1300px;
-}
-.bigbox{
-    width:800px;
-    hight:700px;
-    border: 3px solid rebeccapurple;
-    margin-left:820px;
-    margin-top: 0px;
-}
-.smallbox{
-    width:800px;
-    hight:700px;
-    border: 3px solid rebeccapurple;
-    margin-left:820px;
-    margin-top: 0px;
-}
-#i1{
-    width:500px;
-    height:290px;
-}*/
 header{
-    background-color: rgb(226, 131, 131);
+    background-color: rgba(0, 0, 0, 0);
     text-align: center;
+    text-emphasis-color: white;
 }
 section{
     width : 600px;
@@ -41,7 +10,8 @@ section{
     border: 3px;
     float: left;
     margin-top: 40px;
-    border-color: rgb(253, 129, 129);
+    background-color: rgba(0, 0, 0, 0);
+    border-color: rgb(255, 245, 245);
     text-align: justify;
     font-size: 18px;
     line-height: 50px;
@@ -49,19 +19,19 @@ section{
 .mainbox{
     width: 1300px;
     height:600px;
-    border: 5px dashed rgb(250, 156, 156);
+    border: 5px dashed rgb(247, 242, 242);
 
 }
 .bigbox{
     width: 600px;
     height:600px;
-    border: 3px solid rgb(255, 143, 143);
+    border: 5px solid rgb(248, 248, 248);
     float:right;
 }
 .smallbox{
     width: 550px;
     height:250px;
-    border: 10px solid rgb(248, 133, 133);
+    border: 10px solid rgb(222, 243, 252);
     margin-top: 20px;
     margin-left: 20px;
 
